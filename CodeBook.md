@@ -1,12 +1,18 @@
 DATA DICTIONARY - run_analysis.R
 =========================================
 ## row.names
-LAYING		Activity
-SITTING		Activity
-STANDING		Activity
-WALKING		Activity
-### WALKING_DOWNSTAIRS	Activity	
-### WALKING_UPSTAIRS	Activity
+LAYING                  Activity
+
+SITTING                 Activity
+
+STANDING                Activity
+
+WALKING                 Activity
+
+WALKING_DOWNSTAIRS      Activity	
+
+WALKING_UPSTAIRS        Activity
+
 ### 1			Subject ID
 ### 2			Subject ID
 ### 3			Subject ID
