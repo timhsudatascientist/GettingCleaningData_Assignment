@@ -1,7 +1,7 @@
 DATA DICTIONARY - run_analysis.R
 =========================================
 ## row.names
-LAYING &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Activity
+LAYING &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Activity
 
 SITTING                 Activity
 
