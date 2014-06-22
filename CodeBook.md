@@ -3,15 +3,15 @@ DATA DICTIONARY - run_analysis.R
 ## row.names
 LAYING &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Activity
 
-SITTING                 Activity
+SITTING &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Activity
 
-STANDING                Activity
+STANDING &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Activity
 
-WALKING                 Activity
+WALKING &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Activity
 
-WALKING_DOWNSTAIRS      Activity	
+WALKING_DOWNSTAIRS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Activity	
 
-WALKING_UPSTAIRS        Activity
+WALKING_UPSTAIRS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Activity
 
 ### 1			Subject ID
 ### 2			Subject ID
