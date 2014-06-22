@@ -41,5 +41,7 @@ You should create one R script called run_analysis.R that does the following:
 - Output tidy data file 'data_output_mean_tidy.txt' in which the averages of each variable for each activity and each subject have been calculated and populated in the corresponding cells. 
 - In the output tidy data file 'data_output_mean_tidy.txt', the row names are activities and subject IDs and the column names are variables.
 
+## How to test output data file 'data_output_mean_tidy.txt':
+- in R, type 'test <- read.csv("data_output_mean_tidy.txt")'
 
 
